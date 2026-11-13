@@ -1,0 +1,14 @@
+{
+  "name": "football-live-hd-telegram-bot",
+  "version": "2.0.0",
+  "description": "Football Live HD PRO Telegram bot with customizable match alerts",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
